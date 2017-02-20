@@ -1,0 +1,119 @@
+body{
+	background-color: #F8BBD0;
+}
+
+ footer {
+	background-color: #E91E63;
+	color: #F8BBD0;
+	position:fixed;
+   	bottom:0;
+   	width:100%;
+   	height:60px; 
+}
+
+div h4{
+	color: #1A237E;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+}
+
+div h1 {
+	color: #E91E63;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	padding: 25px;
+}
+
+footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: inline;
+}
+
+.row .large-8columns {
+	text-align: center;
+}
+
+.header h2 {
+	color: #1A237E;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+.top-bar h1{
+	color: #F8BBD0;
+}
+
+.name h1 {
+	color: #F8BBD0;
+}
+
+
+
+.title-area h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 15px;
+}
+
+.row p {
+	font-family: 'Raleway', sans-serif;
+}
+
+.row h4 {
+	font-family: 'Lato', sans-serif;
+}
+
+.panel  {
+  background-color: #1A237E ;
+}
+.top-bar  {
+  background-color: #1A237E ;
+}
+
+.right .top-bar-section section {
+	background-color: #1A237E;
+}
+
+.panel h4 {
+	color:#fff;
+}
+
+.panel p {
+	color: #fff;
+}
+
+.radius-button-right div {
+	background-color: red;
+} 
+
+.right ul {
+
+	background-color: #000;
+}
+
+
+div img {
+	width:1000%;
+}
+
+/* unvisited link */
+a:link {
+    color: #fff;
+}
+
+/* visited link */
+a:visited {
+    color: #F8BBD0;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
