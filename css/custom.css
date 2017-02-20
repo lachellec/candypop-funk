@@ -29,10 +29,9 @@ footer ul {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	display: inline;
 }
 
-.row .large-8columns {
+.row .large-8 {
 	text-align: center;
 }
 
