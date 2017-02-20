@@ -45,6 +45,10 @@ footer ul {
 	display: inline-block;
 }
 
+.icon-list li i{
+	font-size: 24px;
+}
+
 .row .large-8 {
 	text-align: center;
 }
