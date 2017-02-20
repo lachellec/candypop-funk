@@ -2,6 +2,10 @@ body{
 	background-color: #F8BBD0;
 }
 
+.main-content {
+	margin-bottom: 200px;
+}
+
  footer {
 	background-color: #E91E63;
 	color: #F8BBD0;
@@ -9,7 +13,6 @@ body{
    	bottom:0;
    	width:100%;
    	padding:25px 0; 
-   	padding-top: 100px;
 }
 
 div h4{
