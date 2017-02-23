@@ -6,6 +6,10 @@ body{
 	margin-bottom: 200px;
 }
 
+.banner {
+	margin: 2em 0;
+}
+
 .top-bar-section li.active:not(.has-form) a:not(.button) {
     background: #E91E63;
     color: #FFFFFF;
