@@ -11,6 +11,7 @@ body{
     color: #FFFFFF;
     line-height: 2.8125rem;
     padding: 0 0.9375rem;
+    font-family: 'Lato', sans-serif;
 }
 
 .top-bar-section li:not(.has-form) a:not(.button) {
