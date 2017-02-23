@@ -48,6 +48,10 @@ a:-webkit-any-link {
     font-family: 'Dancing Script', cursive;
 }
 
+.top-bar .name h1 a img{
+	margin-right: 10px;
+}
+
  footer {
 	background-color: #E91E63;
 	color: #F8BBD0;
