@@ -10,6 +10,10 @@ body{
 	margin: 2em 0;
 }
 
+.blog-items .row {
+	margin-bottom: 2em;
+}
+
 .top-bar-section li.active:not(.has-form) a:not(.button) {
     background: #E91E63;
     color: #FFFFFF;
@@ -28,6 +32,10 @@ a:-webkit-any-link {
     color: #F8BBD0;
     font-size: 15px;
     font-family: 'Raleway', sans-serif;
+ }
+
+ .top-bar-section ul li > a {
+ 	font-family: 'Lato', sans-serif;
  }
 
  .top-bar .name h1 a, .top-bar .name h2 a, .top-bar .name h3 a, .top-bar .name h4 a, .top-bar .name p a, .top-bar .name span a {
